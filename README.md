@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/github-header-banner" alt="GitHub Header Banner" width="100%">
-</p>
+![Header](./assets/github-header-banner)
 
 # Hi, I'm Abolfazl Mirzaei 👋
 
