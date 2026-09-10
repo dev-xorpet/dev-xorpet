@@ -1,4 +1,4 @@
-![Header](./assets/github-header-banner)
+![Header](./assets/github-header-banner.png)
 
 # Hi, I'm Abolfazl Mirzaei 👋
 
