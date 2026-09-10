@@ -35,3 +35,11 @@ I enjoy learning new technologies, working on real-world projects, and turning i
 ### ✨ Development Style
 
 `Problem Solving` · `Clean Code` · `Continuous Learning` · `Vibe Coding`
+## 📌 Featured Projects
+
+### 🔹 Coming soon!
+## 🤝 Connect With Me
+
+* 💻 GitHub: @dev-xorpet
+* 📧 Email: xorpet@gmail.com
+
