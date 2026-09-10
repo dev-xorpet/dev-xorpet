@@ -40,6 +40,6 @@ I enjoy learning new technologies, working on real-world projects, and turning i
 ### 🔹 Coming soon!
 ## 🤝 Connect With Me
 
-* 💻 GitHub: @dev-xorpet
+* 💻 GitHub: dev-xorpet
 * 📧 Email: xorpet@gmail.com
 
