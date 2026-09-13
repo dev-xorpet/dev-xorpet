@@ -1,7 +1,7 @@
 ![Header](./assets/github-header-banner.png)
 
 # Hi, I'm Abolfazl Mirzaei 👋
-<img align="right" alt="mehdieslami" width="300" src="https://cdn.grove.wgbh.org/dims4/default/900e758/2147483647/strip/true/crop/600x333+0+0/resize/960x533!/format/webp/quality/70/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fc1%2F05%2F7a10b82398788028c3bba280f994%2Fgiphy-4.gif" border=solid border-redus=5 border-color=ffffff>
+<img align="right" alt="mehdieslami" width="300" src="https://cdn.grove.wgbh.org/dims4/default/900e758/2147483647/strip/true/crop/600x333+0+0/resize/960x533!/format/webp/quality/70/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fc1%2F05%2F7a10b82398788028c3bba280f994%2Fgiphy-4.gif">
 
 ### Software Developer | Engineering Student | Problem Solver
 I'm Abolfazl Mirzaei, an engineering student interested in software development, technology, and building practical solutions.
